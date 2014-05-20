@@ -1,0 +1,8 @@
+<form action="index.php" method="post"> 
+	<?  echo $user ?> <input type="text" class="klient" name="clientName" value="<? echo $clientName ?>">&nbsp;&nbsp;&nbsp;<?  echo $pass ?> 
+	
+    <input type="password" class="klient" name="clientPass">&nbsp;&nbsp;&nbsp;
+	 <input type="hidden"  name="lang" value="<? echo $lang ?>">
+	<input type="submit" value="Go" name="loginButton">
+	
+	</form>

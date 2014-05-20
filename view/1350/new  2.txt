@@ -1,0 +1,14 @@
+<DIV CLASS="oneHeroImg"><img src="img/heroes/ez.png" class="heroImg"  alt="avatar" ></DIV>
+			  <DIV CLASS="oneHeroName"><a href="#">Peeter</a></DIV>
+			  <DIV CLASS="oneHeroDel"><img src="view/img/del.png"   alt="delButton" ></DIV>
+			  
+			  <DIV CLASS="oneHeroImg"><img src="img/heroes/ez2.png" class="heroImg"  alt="avatar" ></DIV>
+			  <DIV CLASS="oneHeroName"><a href="#">Vasja</a></DIV>
+			  <DIV CLASS="oneHeroDel"><img src="view/img/del.png"   alt="delButton" ></DIV>
+			  
+			  <DIV CLASS="oneHeroImg"><img src="img/heroes/ez3.png" class="heroImg"  alt="avatar" ></DIV>
+			  <DIV CLASS="oneHeroName"><a href="#">John</a></DIV>
+			  <DIV CLASS="oneHeroDel"><img src="view/img/del.png"   alt="delButton" ></DIV>
+			  
+			  
+			  <div class="bu"></div>

@@ -1,0 +1,182 @@
+@charset "utf-8";
+/* CSS Document */
+body{margin:0 auto;
+background-color:#D5E8E4;
+background-image:url(../img/lgren030.jpg);
+}
+
+#main{width:320px;background:#66FF99;margin:0 auto;
+font-size:26px;
+}
+#cap{width:320px;height:60px;background:#CCC;
+font-size:26px;
+text-align:center;}
+
+#langs{
+	font-size:14px;
+	text-align:right;
+	
+}
+#menu{width:320px;height:25px;background-color:#FF0;
+font-size:18px;
+padding-top:5px;
+text-align:center;
+}
+
+
+#klient{width:60px;
+}
+
+#hero{width:320px;height:75px;background:#FF00CC;
+font-size:26px;}
+
+#heroProp{width:235px;
+background-color:#CC6633;
+height:65px;
+float:left;
+font-size:18px;
+padding:5px;}
+
+
+#field{width:320px;height:320px;
+background-color:#66FF99;
+font-size:18px;
+text-align:center;}
+
+.bu{clear:both}
+
+#register{
+	width:300px;
+	height:300px;
+	margin:0 10px;
+
+	/*
+		margin:auto;
+	margin-top:5px;
+	margin-left:50px;
+	margin-right:50px;
+	*/
+	font-size:16px;
+	background-color:#6f9;
+	}
+	#register input{
+		height:15px;
+		}
+	#regForm{
+		margin-top:0;
+		padding-top:0;
+		
+	}
+
+#heroesLinks{
+	width:200px;
+	height:200px;
+	margin: 50px auto auto auto;
+
+	
+	}
+	
+	.heroAllDet{
+width:200px;
+height:30px;
+padding-top:20px;
+text-align:center;
+font-size:20px;
+/*background-color:#F5DA79;*/
+}
+
+/*----------------- CREATE HERO ------------------*/
+
+#fieldCreate{width:320px;height:700px;
+padding:auto;
+background-color:#66FF99;
+font-size:18px;
+text-align:center;}
+
+#createHero{
+	width:310px;
+	height:700px;
+	margin:0 auto;
+	/*margin-top:5px;
+	margin-left:50px;
+	margin-right:50px;
+	*/
+	font-size:18px;
+	background-color:#3CBB57;
+	}
+
+.createHeroCont{
+	width:150px;
+	height:300px;
+	padding:5px auto;
+	margin:2px auto;
+	/*margin-top:15px;
+	margin-left:50px;
+	margin-right:50px;
+	
+	font-size:20px;*/
+	float:left;
+	background-color:#F5E44A
+	}
+	
+.ht{
+	text-align:left;
+	padding-left:20px;
+	height:50px;
+}
+/* --------------------------- ALL HEROES --------------------------------------*/
+#heroAll{width:320px;
+background-color:#0E5F0B;
+
+/*padding-top:25px;
+height:300px;*/
+font-size:18px;
+text-align:center;
+
+}
+
+#heroAllTop{
+width:75px;
+height:50px;
+float:left;
+padding-top:25px;
+background-color:#FF6600;
+font-size:18px;
+text-align:center;
+}
+
+#heroAllTopTop{
+height:30px; padding-top:5px;
+
+}
+
+#heroAllTBot{
+width:300px;
+height:50px;
+padding-top:30px;
+background-color:#f00;
+
+}
+
+.oneHeroImg{padding-left:10px;
+width:50px;
+height:50px;
+padding-top:10px;
+float:left;
+background-color:#F7C750;
+	}
+	
+	.oneHeroName{padding-left:10px;
+width:200px;
+height:50px;
+padding-top:10px;
+float:left;
+background-color:#ccc;
+	}
+	.oneHeroDel{padding-right:10px;
+width:40px;
+height:45px;
+padding-top:15px;
+float:left;
+background-color:#F7C750;
+	}

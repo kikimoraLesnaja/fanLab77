@@ -1,0 +1,17 @@
+SELECT id, SUM( health ) AS s
+FROM `fan_persons`
+WHERE `health` >0
+GROUP BY id
+ORDER BY s DESC
+
+
+
+SELECT id, nick , SUM(health) AS s FROM fan_persons as p, fan_users as u
+ WHERE p.id=u.id AND p.health>0 GROUP BY p.id ORDER BY s DESC
+ 
+ SELECT p.id, nick, SUM( health + power ) AS s
+FROM fan_persons AS p, fan_users AS u
+WHERE p.id = u.id
+AND p.health >0
+GROUP BY p.id
+ORDER BY s DESC

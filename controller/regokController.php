@@ -1,0 +1,3 @@
+<?
+$regok=tr('regok');
+?>

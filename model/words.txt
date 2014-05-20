@@ -1,0 +1,12 @@
+﻿KW#EE#EN#RU
+about#Mängust#About#О игре
+allhero#K&otilde;ik kangelased#All heroes#Все герои
+creahero#Uus kangelane#Create hero#Создать героя
+email#E-post#E-mail#Эл. почта
+heroes#Kangelased#Heroes#Герои
+nick#Kasutaja#Nickname#Пользователь
+nickname#Kasutaja nimi#Nickname#Имя пользов.
+pass#Pass#Password#Пароль
+reg#Registratsioon#Registration#Регистрация
+repeat_pass#Pass veel kord#Repeat Password#Пароль ещё раз
+user#Kasutaja#User#Имя пользов.

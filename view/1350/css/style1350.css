@@ -1,0 +1,372 @@
+@charset "utf-8";
+/* CSS Document */
+body{margin:0 auto;
+background-color:#D5E8E4;
+background-image:url('../../../view/img/lug.jpg');
+}
+
+#main{width:1350px;background:#6600CC;margin:0 auto;
+font-size:26px;
+}
+#cap{width:1350px;height:85px;background:#CCC;
+font-size:26px;
+text-align:center;}
+
+#menu{width:1350px;height:45px;background-color:#FF0;
+}
+
+#langs{
+	font-size:14px;
+	text-align:right;
+	
+}
+#menuLeft{width:550px; height:30px;
+font-size:20px;
+padding-top:5px;
+padding-left:25px;
+float:left;
+
+
+}
+
+
+#menuMiddle{width:180px; height:30px;
+font-size:20px;
+
+padding-right:10px;
+float:left;
+padding-top:10px;
+text-align:right;
+/*background:#ccc;*/
+
+}
+
+#menuRight{width:550px; height:30px;
+font-size:20px;
+padding-top:5px;
+padding-right:25px;
+float:right;
+text-align:right;
+/*background:#eee;*/
+}
+
+#leftBanner{width:275px;
+background-color:#ccc;
+height:725px;float:left;
+font-size:26px;
+padding:12px;
+}
+
+#rightBanner{width:275px;
+background-color:#ccc;
+height:725px;float:left;
+font-size:26px;
+padding:12px;
+}
+.klient{width:70px;
+height:20px;
+}
+
+#hero{width:750px;height:75px;background:#FF00CC;
+font-size:26px;}
+
+#botContainer{
+	width:1350px;
+background-color:#863233;
+height:750px;
+}
+#heroProp{width:275px;
+background-color:#CC6633;
+height:725px;float:left;
+font-size:20px;
+padding:12px;
+}
+#heroAll{width:300px;
+background-color:#FF6600;
+height:750px;float:left;
+font-size:18px;
+text-align:center;
+float:left;
+}
+
+#heroAllTop{
+width:300px;
+/*height:700px;*/
+padding-top:7px;
+}
+
+#heroAllTBot{
+width:300px;
+height:50px;
+padding-top:7px;
+}
+
+#heroLifeCurrent{
+width:250px;
+height:25px;
+border: solid 1px black;
+}
+
+#heroPowerCurrent{
+width:250px;
+height:25px;
+border: solid 1px black;
+}
+.heroImg{
+width:50px;
+height:50px;
+padding:5px;
+cursor:pointer;
+}
+
+.heroImgCurrent{
+width:50px;
+height:50px;
+padding:5px;
+cursor:pointer;
+	}
+	
+.heroArm{
+width:50px;
+height:50px;
+padding:5px;
+cursor:pointer;
+}	
+.imgSel{
+border: solid 1px red;
+}
+	
+.heroTypeCont{
+width:250px;
+height:50px;
+padding-left:20px;
+text-align:left;
+/*background-color:#ccc*/
+}
+
+.heroArmCont{
+width:250px;
+height:85px;
+padding-left:10px;
+text-align:center;
+font-size:16px;
+/*background-color:#ccc*/
+}
+
+
+.oneHeroImg{padding-left:10px;
+width:50px;
+height:50px;
+padding-top:10px;
+float:left;
+background-color:#F7C750;
+
+
+	}
+	
+	.oneHeroName{padding-left:10px;
+width:150px;
+height:50px;
+padding-top:10px;
+float:left;
+background-color:#ccc;
+	}
+	.oneHeroDel{padding-right:10px;
+width:40px;
+height:45px;
+padding-top:15px;
+float:left;
+background-color:#F7C750;
+	}
+/*---------------------------------------------------------------*/
+#field{width:750px;height:750px;
+background-color:#66FF99;
+font-size:26px;
+float:left;text-align:center;
+background-image:url('../../../view/img/field/sand.png');
+}
+
+/* ----------------- REGISTER ------------------*/
+
+#register{
+	width:300px;
+	height:600px;
+	margin:auto;
+	margin-top:50px;
+	padding-top:10px;
+	/*margin-left:50px;
+	margin-right:50px;
+	*/
+	font-size:20px;
+	background-color:#3CBB57;
+	}
+	
+
+/* ----------------- CREATE HERO ------------------*/	
+#createHero{
+	width:725px;
+	
+	margin:auto;
+	margin-top:15px;
+	/*
+	height:700px;
+	margin-left:50px;
+	margin-right:50px;
+	*/
+	font-size:20px;
+	background-color:#3CBB57;
+	}
+
+.createHeroCont{
+	width:240px;
+	height:350px;
+	margin: 0;
+	/*margin-top:15px;
+	margin-left:50px;
+	margin-right:50px;
+	
+	font-size:20px;*/
+	float:left;
+	background-color:#F5E44A
+	}
+.ht{
+	text-align:left;
+	padding-left:20px;
+	height:50px;
+}
+/* ----------------- PROFIL ------------------*/
+
+#profil{
+	width:650px;
+	height:600px;
+	margin:auto;
+	margin-top:20px;
+	padding-top:10px;
+	/*margin-left:50px;
+	margin-right:50px;
+	*/
+	font-size:20px;
+	background-color:#3CBB57;
+	}
+	
+.profilBox{
+	width:300px;
+	height:350px;
+	margin:auto;
+	margin-bottom:20px;
+	padding:10px;
+	/*
+	
+	margin-left:50px;
+	margin-right:50px;
+	border:solid 1px #0C0;
+	*/
+	font-size:20px;
+	background-color:#3CBB57;
+	
+	float:left;
+	}
+
+#passBox{
+display:none;
+}
+
+.errorS{
+ color:#F00;
+ font-weight:bold;
+}
+
+/* ----------------------- GAME FIELD ------------------------ */
+
+.sand{
+	width:50px;
+	height:50px;
+	float:left;
+	background-image:url('../../../view/img/field/sand.png');
+	cursor:pointer;
+}
+
+.water{
+	width:50px;
+	height:50px;
+	float:left;
+	background-image:url('../../../view/img/field/water.png');
+	cursor:pointer;
+}
+.wood{
+	width:50px;
+	height:50px;
+	float:left;
+	background-image:url('../../../view/img/field/wood.png');
+	cursor:pointer;
+}
+.grass{
+	width:50px;
+	height:50px;
+	float:left;
+	background-image:url('../../../view/img/field/grass.png');
+	cursor:pointer;
+}
+.stone{
+	width:50px;
+	height:50px;
+	float:left;
+	background-image:url('../../../view/img/field/stone.png');
+	cursor:pointer;
+}
+
+.wolf{
+	width:50px;
+	height:50px;
+	float:left;
+	background-image:url('../../../view/img/enemies/wolf.png');
+	cursor:pointer;
+}
+.witch{
+	width:50px;
+	height:50px;
+	float:left;
+	background-image:url('../../../view/img/enemies/witch.png');
+	cursor:pointer;
+}
+.dragon{
+	width:50px;
+	height:50px;
+	float:left;
+	background-image:url('../../../view/img/enemies/dragon.png');
+	cursor:pointer;
+}
+
+
+.avatar{
+	width:50px;
+	height:50px;
+	float:left;
+	cursor:pointer;
+}
+
+/* ************************  SCORES ************************** */
+#scoreTable {
+color:#8B4513;
+width:400px;
+margin:20px auto;
+border:solid 2px #8B4513;
+background:#FFD39B;
+
+}
+
+#scoreTable td{
+color:#8B4513;
+
+border:solid 1px #8B4513;
+background:#FFD39B;
+
+}
+
+#scoreTable th{
+color:#000;
+
+border:solid 1px #8B4513;
+background:#FFD39B;
+
+}

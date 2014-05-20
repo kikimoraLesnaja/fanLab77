@@ -1,0 +1,149 @@
+@charset "utf-8";
+/* CSS Document */
+body{margin:0 auto;
+background-color:#D5E8E4;
+background-image:url(../img/lgren030.jpg);
+}
+
+#main{width:1350px;background:#6600CC;margin:0 auto;
+font-size:26px;
+}
+#cap{width:1350px;height:85px;background:#CCC;
+font-size:26px;
+text-align:center;}
+
+#menu{width:1350px;height:40px;background-color:#FF0;
+}
+
+#langs{
+	font-size:14px;
+	text-align:right;
+	
+}
+#menuLeft{width:650px; height:30px;
+font-size:20px;
+padding-top:10px;
+padding-left:25px;
+float:left;
+
+
+}
+
+#menuRight{width:650px; height:30px;
+font-size:20px;
+padding-top:10px;
+padding-right:25px;
+float:right;
+text-align:right;
+
+}
+.klient{width:70px;
+}
+
+#hero{width:750px;height:75px;background:#FF00CC;
+font-size:26px;}
+
+#botContainer{
+	width:1350px;
+background-color:#863233;
+height:750px;
+}
+#heroProp{width:275px;
+background-color:#CC6633;
+height:725px;float:left;
+font-size:26px;
+padding:12px;
+}
+#heroAll{width:300px;
+background-color:#FF6600;
+height:750px;float:left;
+font-size:18px;
+text-align:center;
+float:left;
+}
+
+#heroAllTop{
+width:300px;
+height:700px;
+padding-top:7px;
+}
+
+#heroAllTBot{
+width:300px;
+height:50px;
+padding-top:7px;
+}
+
+.oneHeroImg{padding-left:10px;
+width:50px;
+height:50px;
+padding-top:10px;
+float:left;
+background-color:#F7C750;
+	}
+	
+	.oneHeroName{padding-left:10px;
+width:180px;
+height:50px;
+padding-top:10px;
+float:left;
+background-color:#ccc;
+	}
+	.oneHeroDel{padding-right:10px;
+width:40px;
+height:45px;
+padding-top:15px;
+float:left;
+background-color:#F7C750;
+	}
+/*---------------------------------------------------------------*/
+#field{width:750px;height:750px;
+background-color:#66FF99;
+font-size:26px;
+float:left;text-align:center;}
+
+/* ----------------- REGISTER ------------------*/
+
+#register{
+	width:300px;
+	height:600px;
+	margin:auto;
+	margin-top:50px;
+	/*margin-left:50px;
+	margin-right:50px;
+	*/
+	font-size:20px;
+	background-color:#3CBB57;
+	}
+	
+
+/* ----------------- CREATE HERO ------------------*/	
+#createHero{
+	width:725px;
+	height:700px;
+	margin:auto;
+	margin-top:15px;
+	/*margin-left:50px;
+	margin-right:50px;
+	*/
+	font-size:20px;
+	background-color:#3CBB57;
+	}
+
+.createHeroCont{
+	width:240px;
+	height:600px;
+	margin: 0;
+	/*margin-top:15px;
+	margin-left:50px;
+	margin-right:50px;
+	
+	font-size:20px;*/
+	float:left;
+	background-color:#F5E44A
+	}
+.ht{
+	text-align:left;
+	padding-left:20px;
+	height:50px;
+}
